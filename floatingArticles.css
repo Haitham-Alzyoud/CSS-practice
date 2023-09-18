@@ -1,0 +1,26 @@
+.container{
+    background-color: beige;
+    width: 50%;
+    border-right: 4px solid;
+    height: 50vh;
+    margin:100px 0px 0px 30px;
+}
+
+.box  {
+    background-color: rgb(209, 209, 216);
+    float: left;
+    width: 200px;
+    margin: 10px;
+    overflow: hidden;
+    height: 105px;
+}
+
+
+p{
+    margin-top: 140px;
+    border-bottom: 2px solid;
+    border-top: 2px solid;
+    width: 100%;
+    overflow: auto;
+    height: 50px;
+}

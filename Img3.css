@@ -1,0 +1,31 @@
+.p1{
+    color: blue;
+}
+
+
+a{
+    color: Orange;
+}
+
+.a1{
+    color: red;
+}
+.a1:hover , a:hover{
+    color: blue;
+}
+
+.highlight{
+    background-color: yellow;
+
+}
+
+.ul2{
+    color: blue;
+    list-style-type: circle;
+
+}
+.ul23{
+    color: blue;
+    list-style-type: none;
+
+}
